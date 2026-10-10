@@ -1,4 +1,4 @@
-# Only Good News — latest issue
+# Only Good News: latest issue
 
 [https://pamu512.github.io/ogn-latest/](https://pamu512.github.io/ogn-latest/) always redirects to the latest public Buttondown issue.
 
